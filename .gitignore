@@ -1,1 +1,2 @@
-mnist_script/MNIST/
+mnist_script/MNIST/*
+mnist_script/.ipynb_checkpoints
